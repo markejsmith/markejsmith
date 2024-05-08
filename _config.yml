@@ -1,0 +1,11 @@
+# THEME DEFINITION
+# 
+theme: jekyll-theme-minimal
+#
+# For all other themes, use:
+#     remote_theme: THEME-NAME
+#     As at 8/5/24, supported themes are 
+#        Architect, Cayman, Dinky, Hacker, Leap day, Merlot, Midnight
+#        Minima, Minimal, Modernist, Slate, Tactile, Time machine 
+#  
+# END THEME DEFINITION
