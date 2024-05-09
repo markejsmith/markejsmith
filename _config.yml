@@ -40,7 +40,7 @@ github_username:  jekyll
 exclude:
   - .sass-cache/
   - .jekyll-cache/
-  - jeklyll/bundle
+  - bundle
   - gemfiles/
   - Gemfile
   - Gemfile.lock
