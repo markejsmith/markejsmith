@@ -1,4 +1,4 @@
 # _config.yml
 
 title: "Jekyll Actions Demo"
-exclude: [ruby]
+exclude: [ruby/3.2.0/gems/jekyll-3.9.5/lib/site_template/_posts/0000-00-00-welcome-to-jekyll.markdown.erb]
